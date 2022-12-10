@@ -16,4 +16,4 @@ CMD ["npm", "run", "start"]
 
 
 
-// docker run -d --restart always --name minhas_contas_api -p 4000:4000 minhas_contas_api
+# docker run -d --restart always --name minhas_contas_api -p 4000:4000 minhas_contas_api
